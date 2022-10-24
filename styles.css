@@ -1,0 +1,79 @@
+/* 1. If you want to use the class for headings as well as paragraphs, how would you rewrite this? */
+p.special {
+        font-size: 1rem;
+}
+head.special{
+    font-size: 1rem;
+}
+/* 2. Create a class named "fancy" that isn't tied to any element. Write just the first and last lines of the code */
+.fancy{
+    font-size: 1rem;
+}
+/* 3. If the following code is in the CSS file, what is the "normal" size for paragraphs, compared with the browser's default size? Express it as a %. */
+p{
+  font-size: 1.5%;
+}
+/* 4. If the CSS file says that "normal" text size is to be 150% of the browser's default text size and you create a class that specifies paragraphs of the class are to be 1.3 ems, what is the size of this text, compared with the browser's default text size? Express it as a %. Use the calculator if you need it. */
+p{
+    font-size: 195%;
+}
+/* Write the HTML for  opening tag for an h4 heading of a class named "big" */
+h4.big{
+    font-size: 1rem;
+}
+/* Create a class not tied to an element that halves the "normal" size. The class name is "tiny" */
+.tiny{
+    font-size: 50%;
+}
+/* 8. Code the first line that defines a class not tied to any element. Give it a name of your choice. */
+.empty{
+    font-size: 1rem;
+}
+/* 9. Create a class not tied to an element that displays in a font from the stack Bookman, serif. Give it any legal name you like. */
+.random{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* 10. If the CSS file says that "normal" text is to be twice the browser's default size and you create a class that specifies paragraphs of the class are to be .75 ems, what is the size of this text, compared with the browser's default text size? Express it as a %. Use the calculator if you need it. */
+/* 150%
+2 * .75 = 1.50 = 150% */
+/* code onto the screen to create a class not tied to an element named "minimized" */
+.minimized{
+    font-size: 1rem;
+}
+/* 11. Define a class that isn't tied to an element. Give it the class name of your choice and a font-size of your choice. */
+.mychoice{
+    font-size: 1rem;
+}
+/* 12. Code the HTML for a heading (your choice of size) including opening tag, some text, and closing tag. Assign it a class of your choice. */
+a.main{
+    border: 1px red solid;
+}
+/* 13. Time goal: 30 seconds. Create a class named "fancy" that isn't tied to any element. Write just the first and last lines of the code. */
+.fancy{
+    font-size: 1rem;
+}
+/* 14. Time goal: 15 seconds. Write the HTML for the opening tag for an h4 heading of a class named "big" */
+h4.big{
+    font-size: 1rem;
+}
+/* 15. Time goal: 50 seconds. Create a class not tied to an element that halves the "normal" size. The class name is "tiny" */
+.tiny{
+    font-size: 0.75em;
+}
+/* 16. Time goal: 40 seconds. Create a class not tied to an element that displays in a font from the stack Bookman, serif. Give it any legal name you like. */
+a.bookman{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* 17. Time goal: 35 seconds. Define a class that isn't tied to an element. Give it the class name of your choice and a font-size of your choice. */
+.main-header{
+    font-size: 1rem;
+}
+/* 18. Time goal: 40 seconds. Code the HTML for a heading (your choice of size) including opening tag, some text, and closing tag. Assign it a class of your choice. */
+.h2{
+    font-size: 1rem;
+}
+/* 1. In the CSS panel on the right, create a class not tied to an element. Give it a font size. Also, give it a font from the stack  "Book Antiqua", Palatino, serif. Don't omit the quotation marks. */
+.random-class{
+    font-size: 1rem;
+    font-family: "Book Antiqua";
+}
